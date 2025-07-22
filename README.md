@@ -45,4 +45,4 @@ Website ini adalah prototipe landing page modern untuk promosi jasa pembuatan we
 
 ---
 
-© 2024 WebPro.id — All rights reserved.
+© 2024 vanpro.id — All rights reserved.
