@@ -38,9 +38,9 @@ Website ini adalah prototipe landing page modern untuk promosi jasa pembuatan we
 - Chatbot pada prototipe ini adalah dummy (tidak terhubung ke API manapun), hanya untuk simulasi interaksi.
 
 ## Kontak & Lisensi
-- Email: info@webpro.id
-- WhatsApp: 0812-3456-7890
-- Instagram: @webpro.id
+- Email: nirvan.8379@gmail.com
+- WhatsApp: 0821-123-456
+- Instagram: @orangv_08
 - Prototipe ini bebas digunakan untuk pembelajaran, tugas, atau inspirasi project.
 
 ---
