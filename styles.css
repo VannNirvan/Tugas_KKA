@@ -98,8 +98,21 @@ nav a:hover {
     flex-direction: column;
     justify-content: flex-start;
     position: relative;
-    transition: box-shadow 0.2s, transform 0.2s, border 0.2s;
+    transition: box-shadow 0.35s cubic-bezier(.4,2,.6,1), transform 0.35s cubic-bezier(.4,2,.6,1), border 0.2s;
     border: 2px solid #e3eafc;
+}
+.card .icon {
+    display: inline-block;
+    transition: transform 0.35s cubic-bezier(.4,2,.6,1);
+}
+.card:hover {
+    box-shadow: 0 12px 32px rgba(30,60,114,0.18);
+    transform: translateY(-10px) scale(1.045) rotateZ(-1deg);
+    border: 2px solid #2a5298;
+    z-index: 2;
+}
+.card:hover .icon {
+    transform: scale(1.25) rotate(-8deg);
 }
 .card h3 {
     color: #2a5298;
