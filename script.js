@@ -71,7 +71,8 @@ function createChatInput() {
                 'Silakan jelaskan kebutuhan website Anda, kami akan memberikan solusi terbaik.',
                 'Untuk informasi harga, silakan cek bagian Paket Harga di atas.',
                 'Kami menyediakan layanan pembuatan website profesional dan hosting cepat.',
-                'Tim kami siap membantu konsultasi gratis. Hubungi kami melalui form kontak.'
+                'Tim kami siap membantu konsultasi gratis. Hubungi kami melalui form kontak.',
+                
             ];
             const response = dummyResponses[Math.floor(Math.random() * dummyResponses.length)];
             chatbotMessages.appendChild(createChatBubble(response, 'bot'));
